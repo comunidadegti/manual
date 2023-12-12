@@ -1,7 +1,7 @@
 # Manual de Sobrevivência CESAR School
 
 <p align="center" width="100px">
-<a href="https://manual-gti.vercel.app/#/">
+<a href="https://manualgti.vercel.app/#/">
   <img width="300px" src="assets/svg/logo.svg" alt="Logo"/>
 </a>
 </p>  
@@ -46,18 +46,18 @@ docsify serve
 
 Após rodar o projeto, você pode acessá-lo no seu navegador através do endereço [http://localhost:3000](http://localhost:3000). 
 
-Para contribuir com o projeto, basta criar uma branch com o seu nome e fazer um pull request para a branch master. Após o pull request ser aprovado, o seu conteúdo vai aparecer no site.
+Para contribuir com o projeto, basta criar uma branch com o seu nome e fazer um pull request para a branch main. Após o pull request ser aprovado, o seu conteúdo vai aparecer no site.
 
-Sinta-se livre para contribuir com o projeto e adicionar novos conteúdos, caso vá adicionar um novo arquivo .md, se lembre de adicionar na [_sidebar.md](https://github.com/comunidadegti/manual/blob/master/_sidebar.md). 
+Sinta-se livre para contribuir com o projeto e adicionar novos conteúdos, caso vá adicionar um novo arquivo .md, se lembre de adicionar na [_sidebar.md](https://github.com/comunidadegti/manual/blob/main/_sidebar.md). 
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/comunidadegti/manual/blob/master/LICENSE) para obter detalhes.
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/comunidadegti/manual/blob/main/LICENSE) para obter detalhes.
 
 ## Requisitos para contribuir
 
-* Criar um arquivo .md com o conteúdo que você quer adicionar e atualizar o arquivo [_sidebar.md](https://github.com/comunidadegti/manual/blob/master/_sidebar.md)
+* Criar um arquivo .md com o conteúdo que você quer adicionar e atualizar o arquivo [_sidebar.md](https://github.com/comunidadegti/manual/blob/main/_sidebar.md)
 
-> Lembre de adicionar o seu nome na lista de colaboradores no arquivo [collaborators.md](https://github.com/comunidadegti/manual/blob/master/collaborators.md)
+> Lembre de adicionar o seu nome na lista de colaboradores no arquivo [collaborators.md](https://github.com/comunidadegti/manual/blob/main/collaborators.md)
 
 Feito com ❤️ por [GTIHUB](https://github.com/comunidadegti)
