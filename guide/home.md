@@ -21,7 +21,7 @@ Para que uma pessoa candidata tenha seu status alterado de pré-matriculada para
 
 Para verificar se algum documento precisa ser reenviado, acesse o **Portal Acadêmico > Cadastro > Documentos.**
 
-![Documentos](../assets/img/ok-home-lyceum.png)
+![Documentos](../assets/img/view-aluno-lyceum.png)
 
 > [FAQ Matrícula](https://sites.google.com/cesar.school/graduacao/matr%C3%ADcula/faq) </br>
 
@@ -56,7 +56,7 @@ Para conseguir logar no Portal Acadêmico, será necessário o seu e-mail **@ces
 
 Entre outros serviços, que em breve estarão disponíveis.
 
-![Lyceum](../assets/img/view-aluno-lyceum.png)
+![Lyceum](../assets/img/ok-home-lyceum.png)
 
 ## Campus
 Brum, Avenida Cais do Apolo, 77, Recife.
