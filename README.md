@@ -58,6 +58,6 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.m
 
 * Criar um arquivo .md com o conteúdo que você quer adicionar e atualizar o arquivo [_sidebar.md](https://github.com/comunidadegti/manual/blob/main/_sidebar.md)
 
-> Lembre de adicionar o seu nome na lista de colaboradores no arquivo [collaborators.md](https://github.com/comunidadegti/manual/blob/main/collaborators.md)
+> Lembre de adicionar o seu nome na lista de colaboradores no arquivo [collaborators.md](https://github.com/comunidadegti/manual/blob/main/guide/collaborators.md)
 
 Feito com ❤️ por [GTIHUB](https://github.com/comunidadegti)
